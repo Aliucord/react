@@ -1,12 +1,12 @@
 {
-  "name": "react-devtools-core",
-  "version": "4.24.4",
+  "name": "@aliucord/react-devtools-core",
+  "version": "4.24.4-aliucord.1",
   "description": "Use react-devtools outside of the browser",
   "license": "MIT",
   "main": "./dist/backend.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/react.git",
+    "url": "https://github.com/Aliucord/react.git",
     "directory": "packages/react-devtools-core"
   },
   "files": [

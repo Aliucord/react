@@ -32,7 +32,7 @@ type ConnectOptions = {
   ...
 };
 
-installHook(window);
+export { installHook };
 
 const hook: ?DevToolsHook = window.__REACT_DEVTOOLS_GLOBAL_HOOK__;
 
